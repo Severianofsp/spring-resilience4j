@@ -2,12 +2,12 @@
   Projeto criado com destino a testar a biblioteca Resilience4j em susbtituição ao Hystrix
 
 ## Pré-requisitos
-JDK 8;
-Spring Boot 2.1.x;
-Resilience4j 1.1.x (a última versão do resilience4j é a 1.3 mas o resilience4j-spring-boot2 utiliza a versão 1.1.x);
-IDE;
-Gradle;
-NewRelic APM (Ou Prometheus com Grafana).
+- JDK 8;
+- Spring Boot 2.1.x;
+- Resilience4j 1.1.x (a última versão do resilience4j é a 1.3 mas o resilience4j-spring-boot2 utiliza a versão 1.1.x);
+- IDE;
+- Gradle;
+- NewRelic APM (Ou Prometheus com Grafana).
 
 
 ## Resilience4j
