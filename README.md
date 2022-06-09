@@ -15,6 +15,8 @@ O Resilience4j foi inspirado no Hystrix da Netflix, porém, foi desenvolvido em 
 
 Uma nova biblioteca sempre terá vantagem quando comparada com uma biblioteca mais antiga, já que a novata pode aprender com os erros do seu antecessor. Além disso, o Resilience4j vem com diversas funcionalidades novas:
 
+![image](https://user-images.githubusercontent.com/52466816/172963733-ce0253ad-300d-441a-84d0-dbdb07191f7f.png)
+
 ### Circuit Breaker
 Quando um serviço invoca outro serviço, sempre há a possibilidade de que o serviço externo não esteja executando ou a latência esteja muito alta. Isso pode levar à exaustão do número de threads, pois as mesmas estarão esperando outras requisições terminarem. O pattern de Circuit Breaker funciona de maneira similar a um Circuit Breaker elétrico:
 
